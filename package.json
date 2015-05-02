@@ -1,0 +1,24 @@
+{
+  "name": "leaflet-heat",
+  "version": "0.1.3",
+  "description": "Repackaged https://github.com/Leaflet/Leaflet.heat for bower compatibility: A tiny and fast Leaflet heatmap plugin.",
+  "main": "leaflet-heat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pilhokim/Leaflet.heat.git"
+  },
+  "keywords": [
+    "leaflet",
+    "heat",
+    "map"
+  ],
+  "author": "Vladimir Agafonkin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pilhokim/Leaflet.heat/issues"
+  },
+  "homepage": "https://github.com/pilhokim/Leaflet.heat"
+}
